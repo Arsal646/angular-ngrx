@@ -1,19 +1,64 @@
 {
-  "posts": [
+  "books": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Learn NGRX",
+      "author": "Arslan Malik",
+      "cost": 500
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Learn Angular",
+      "author": "Arslan Malik",
+      "cost": 1000
+    },
+    {
+      "id": 0.1995423996863801,
+      "name": "test 2",
+      "author": "Arslan Malik",
+      "cost": 100
+    },
+    {
+      "id": 0.8296968735546677,
+      "name": "test 3",
+      "author": "Arslan Malik",
+      "cost": 100
+    },
+    {
+      "id": 0.576919601882177,
+      "name": "test 4",
+      "author": "Arslan Malik",
+      "cost": 100
+    },
+    {
+      "id": 0.5639078058568605,
+      "name": "test 5",
+      "author": "Arslan Malik",
+      "cost": 100
+    },
+    {
+      "id": 0.12422954852277623,
+      "name": "test 6",
+      "author": "Arslan Malik",
+      "cost": 100
+    },
+    {
+      "id": 0.8121019357849719,
+      "name": "test  8",
+      "author": "Arslan Malik",
+      "cost": 100
+    },
+    {
+      "id": 0.9302597334854013,
+      "name": "test 9",
+      "author": "Arslan Malik",
+      "cost": 100
+    },
+    {
+      "id": 0.8607479322699929,
+      "name": "test 88",
+      "author": "Arslan Malik",
+      "cost": 100
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
